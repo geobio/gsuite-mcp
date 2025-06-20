@@ -2,7 +2,7 @@
   "name": "@geobio/google-workspace-server",
   "version": "0.1.0",
   "description": "A Model Context Protocol server",
-  "private": true,
+  "private": false,
   "type": "module",
   "bin": {
     "google-workspace-server": "./build/index.js"
